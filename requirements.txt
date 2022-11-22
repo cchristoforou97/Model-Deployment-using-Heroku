@@ -1,6 +1,5 @@
-pandas
-Flask
-scikit-learn
-numpy
-pickle
-matplotlib.pyplot
+pandas>=0.19
+Flask==1.1.1
+scikit-learn>=0.18
+numpy>=1.9.2
+matplotlib>=1.4.3
